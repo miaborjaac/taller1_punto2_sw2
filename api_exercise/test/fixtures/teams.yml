@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  win: MyString
+  tied: MyString
+  lose: MyString
+  Pts: MyString
+
+two:
+  win: MyString
+  tied: MyString
+  lose: MyString
+  Pts: MyString
